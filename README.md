@@ -1,2 +1,2 @@
-# tomcat-tester
-Check if tomcat servers are online
+# bash-scripts
+Misc bash scripts grouped at single place
